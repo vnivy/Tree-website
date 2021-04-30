@@ -1,0 +1,288 @@
+.hi{
+    background-color:black!important;
+}
+.tree{
+    font-weight: 600;
+    font-size: unset;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+/* .item{
+    display: block;
+    width: 100%;
+    height: auto;
+} */
+.copyrights{
+    font-size: 10px;
+    color:gray;
+    text-align: end;
+}
+.footer{
+    background-color: whitesmoke;
+}
+.content{
+    color: gray;
+font-size: 20px;
+text-align: center;
+
+}
+.contact{
+    color:white;
+    text-align: center;
+    font-size: -webkit-xxx-large;
+}
+.btnnn{
+    color:white;
+    background-color:#ffb31a;
+    padding: 8px 25px;
+    border-radius: 2em!important;
+    border-width: 1px;
+    font-size: 13px;
+   
+}
+.icons
+{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+.icon{
+    font-size: 60px;
+    color: #ffb31a;
+}
+.icon h4{
+    font-weight: 300;
+    font-size: 20px;
+    color:white;
+    margin-bottom: 1rem;
+
+}
+.icon h6{
+    font-size: 14px;
+    font-weight: 100;
+    color:gainsboro;
+}
+.lorem{
+    font-size: 20px;
+}
+.hireus{
+
+}
+
+.btn2 {
+    color: white;
+    background-color: #ffb31a;
+    padding: 8px 40px;
+    border-radius: 2em!important;
+    border-width: 1px;
+    font-size: 13px;
+    text-align:   right;  
+
+}
+.hire h1{
+    color: white;
+    font-weight: 400;
+}
+.hire p{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+.ourprojects{
+    background-color:gainsboro;
+
+}
+.ourprojects h1{
+    font-size: 50px;
+}
+.project{
+    font-size: 18px;
+}
+.create{
+    background-color:	#202020;
+    color:white;
+}
+.looked{
+    font-size: 25px;
+}
+.paragraph{
+color:gainsboro;
+font-size: 18px;
+}
+.video{
+    height:145px;
+}
+.ourservices{
+    background-color: gainsboro;
+}
+
+.icons
+{
+    text-align: center;
+    color: white;
+}
+
+
+.we{
+    font-family: 'Roboto Slab', serif;
+    font-size: 3.5rem;
+}
+.our{
+    font-family: 'Roboto Slab', serif;
+    font-size: 2.5rem;  
+}
+.btnn{
+    color:white;
+    background-color:#ffb31a;
+    padding: 8px 25px;
+    border-radius: 2em!important;
+    border-width: 1px;
+    font-size: 13px;
+}
+.card-title{
+    font-size: 20px;
+}
+.card-text{
+    font-size: 14px;
+}
+.card{
+    border-radius:0rem;
+}
+.cardd{
+    min-width: 0;
+    /* word-wrap: break-word; */
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0rem;
+}
+.t1{
+    height: 121px;
+    width: 50%;
+    border-radius: 50%;
+}
+.title{
+    font-size: 13px;
+}
+.cards{
+    float: left;
+}
+.carousel{
+    width:100%
+}
+.creative{
+    font-family: 'Roboto Slab', serif;
+    font-size: 3.5rem;
+}
+.thin{
+    font-size: 10px;
+}
+.girl{
+    border-radius: 50%;
+}
+.caption1{
+    font-size: 12px;
+    color:#ffb31a;
+}
+.caption2{
+    font-size: 18px;
+}
+.image{
+    border-radius: 50%;
+    height:125px;
+    width:125px;
+    margin-left:75px;
+}
+/* .image {
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    margin-left: 60px;
+} */
+.pic{
+    text-align: right;
+}
+.sliderr{
+    width:100%;
+     height:50%;
+}
+.contary{
+    height:170px;
+}
+.card-body:hover {
+    background-color:#ffb31a;;
+    
+}
+.service{
+    padding-bottom: 5rem;
+}
+.carousel-text{
+    font-size: 20px;
+    font-weight: 400;
+    word-break: break-all;
+}
+.card:hover {
+    background-color:#ffb31a;;
+    
+}
+.text2{
+    font-size: 12px;
+}
+
+
+
+@media (min-width: 320px) and (max-width: 768px) {
+.logo{
+    text-align: center;
+}
+    .creative{
+    font-size: 1rem;
+}
+.carousel-caption{
+    margin-top: 30px;
+}
+
+.hireus{
+    text-align: center;
+}
+.looked{
+    font-size: 18px;
+    text-align: initial;
+}
+.cards{
+    padding-top: 9px;
+}
+.content{
+    text-align: justify;
+}
+.btn2{
+    text-align: center;
+}
+.pic{
+    text-align: center;
+}
+.copyrights{
+    text-align: inherit;
+}
+.girl{
+    height: 30px;
+    width: 30px;
+}
+
+}
+@media (min-width: 768px) and (max-width: 1030px) {
+  .contary{
+      margin-bottom: 30px;
+  } 
+    .content{
+        text-align: center;
+    }
+    .image{
+        margin-left: 10px;
+    }
+    .video{
+        margin-left: 100px;
+        }
+}
